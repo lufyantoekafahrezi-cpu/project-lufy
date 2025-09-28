@@ -35,7 +35,7 @@ def tampilkan_grafik(jenis):
 
 # GUI Tkinter
 root = tk.Tk()
-root.title("Visualisasi Perkembangan Siswa SMK Hijau Muda")
+root.title("Visualisasi Perkembangan Pelajar")
 
 # Frame untuk tombol
 frame_btn = tk.Frame(root)
