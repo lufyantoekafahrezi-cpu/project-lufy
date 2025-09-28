@@ -1,0 +1,113 @@
+[
+  {
+    "order_id": "e0b94def-3432-4aea-b12d-5c859e102b4a",
+    "date": "2025-09-20T14:04:56.351669",
+    "buyer": {
+      "name": "Nadiem Makarin",
+      "address": "KPK Jakarta",
+      "phone": "1234567890"
+    },
+    "items": [
+      {
+        "id": "P003",
+        "name": "IPAD",
+        "price": 250000,
+        "qty": 3,
+        "subtotal": 750000
+      },
+      {
+        "id": "P001",
+        "name": "IPHONE 15",
+        "price": 15000000,
+        "qty": 5,
+        "subtotal": 75000000
+      }
+    ],
+    "total": 75750000
+  },
+  {
+    "order_id": "9a4f4c7a-1094-45e0-bbc3-39850e5d9e15",
+    "date": "2025-09-20T14:05:50.006586",
+    "buyer": {
+      "name": "Ahmad Sahroni",
+      "address": "Kalenderwak",
+      "phone": "0987654321"
+    },
+    "items": [
+      {
+        "id": "P004",
+        "name": "IPHONE 17",
+        "price": 50000,
+        "qty": 8,
+        "subtotal": 400000
+      }
+    ],
+    "total": 400000
+  },
+  {
+    "order_id": "896d52dc-0d53-4b07-9504-fc485c2ec80e",
+    "date": "2025-09-20T14:09:32.022626",
+    "buyer": {
+      "name": "Fufufafa",
+      "address": "Solo",
+      "phone": "789654321"
+    },
+    "items": [
+      {
+        "id": "P002",
+        "name": "CHROME BOOK i5 gen 8",
+        "price": 5000000,
+        "qty": 30,
+        "subtotal": 150000000
+      },
+      {
+        "id": "P004",
+        "name": "CHROME BOOK i9 gen 8",
+        "price": 7500000,
+        "qty": 10,
+        "subtotal": 75000000
+      }
+    ],
+    "total": 225000000
+  },
+  {
+    "order_id": "201ee717-0001-4866-b256-0a34b1be488a",
+    "date": "2025-09-20T14:14:45.230529",
+    "buyer": {
+      "name": "Kemendikbud",
+      "address": "Jakarta Pusat",
+      "phone": "021-9090"
+    },
+    "items": [
+      {
+        "id": "P001",
+        "name": "CHROME BOOK i3 gen 10",
+        "price": 4500000,
+        "qty": 40,
+        "subtotal": 180000000
+      },
+      {
+        "id": "P003",
+        "name": "CHROME BOOK i7 gen 10",
+        "price": 7000000,
+        "qty": 10,
+        "subtotal": 70000000
+      },
+      {
+        "id": "P002",
+        "name": "CHROME BOOK i5 gen 8",
+        "price": 5000000,
+        "qty": 15,
+        "subtotal": 75000000
+      },
+      {
+        "id": "P004",
+        "name": "CHROME BOOK i9 gen 8",
+        "price": 7500000,
+        "qty": 20,
+        "subtotal": 150000000
+      }
+    ],
+    "total": 475000000
+  }
+]

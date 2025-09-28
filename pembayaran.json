@@ -1,0 +1,110 @@
+[
+  {
+    "nama": "Muhammad Nizam",
+    "nis": "0213345",
+    "kelas": "12 TKJ 1",
+    "tanggal": "2025-09-20T14:38:17.240486",
+    "items": [
+      {
+        "komponen": "Validasi Ijazah",
+        "biaya": 500000
+      },
+      {
+        "komponen": "Uji Praktek",
+        "biaya": 800000
+      },
+      {
+        "komponen": "Uji Kompetensi",
+        "biaya": 500000
+      },
+      {
+        "komponen": "Ujian Sekolah",
+        "biaya": 500000
+      }
+    ],
+    "total": 2300000
+  },
+  {
+    "nama": "Fauzi Fadlu Rochman",
+    "nis": "2324567",
+    "kelas": "12 TKR 3",
+    "tanggal": "2025-09-20T14:44:07.075123",
+    "items": [
+      {
+        "komponen": "Validasi Ijazah",
+        "biaya": 500000
+      },
+      {
+        "komponen": "TKA",
+        "biaya": 500000
+      },
+      {
+        "komponen": "Uji Praktek",
+        "biaya": 800000
+      },
+      {
+        "komponen": "Uji Kompetensi",
+        "biaya": 500000
+      },
+      {
+        "komponen": "Ujian Sekolah",
+        "biaya": 500000
+      }
+    ],
+    "total": 2800000
+  },
+  {
+    "nama": "Fauzi Fadlurochman",
+    "nis": "2324567",
+    "kelas": "12 TKR 2",
+    "tanggal": "2025-09-20 14:46:17",
+    "items": [
+      {
+        "komponen": "Validasi Ijazah",
+        "biaya": 500000
+      },
+      {
+        "komponen": "TKA",
+        "biaya": 500000
+      },
+      {
+        "komponen": "Uji Praktek",
+        "biaya": 800000
+      },
+      {
+        "komponen": "Uji Kompetensi",
+        "biaya": 500000
+      },
+      {
+        "komponen": "Ujian Sekolah",
+        "biaya": 500000
+      }
+    ],
+    "total": 2800000
+  },
+  {
+    "nama": "Ahmad Sahroni",
+    "nis": "123456789",
+    "kelas": "12 TKJ 1",
+    "tanggal": "2025-09-24 18:43:04",
+    "items": [
+      {
+        "komponen": "Validasi Ijazah",
+        "biaya": 500000
+      },
+      {
+        "komponen": "Uji Praktek",
+        "biaya": 800000
+      },
+      {
+        "komponen": "Uji Kompetensi",
+        "biaya": 500000
+      },
+      {
+        "komponen": "Ujian Sekolah",
+        "biaya": 500000
+      }
+    ],
+    "total": 2300000
+  }
+]

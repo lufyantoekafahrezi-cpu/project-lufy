@@ -1,0 +1,14 @@
+==== BUKTI PEMBAYARAN SEKOLAH ====
+Nama   : Ahmad Sahroni
+NIS    : 123456789
+Kelas  : 12 TKJ 1
+Tanggal: 2025-09-24 18:43:04
+
+Rincian Pembayaran:
+- Validasi Ijazah : Rp500,000
+- Uji Praktek : Rp800,000
+- Uji Kompetensi : Rp500,000
+- Ujian Sekolah : Rp500,000
+
+TOTAL: Rp2,300,000
+===============================
