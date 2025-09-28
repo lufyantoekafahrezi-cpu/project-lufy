@@ -1,0 +1,8 @@
+[
+  {"tanya": "halo", "jawab": "Halo juga! Senang ketemu kamu 😊"},
+  {"tanya": "hai", "jawab": "Hai hai! Apa kabar?"},
+  {"tanya": "apa kabar", "jawab": "Saya baik-baik saja, terima kasih. Kamu bagaimana?"},
+  {"tanya": "siapa kamu", "jawab": "Saya chatbot sederhana buatan Python."},
+  {"tanya": "terima kasih", "jawab": "Sama-sama, senang bisa membantu!"},
+  {"tanya": "bye", "jawab": "Sampai jumpa! 👋"}
+]
