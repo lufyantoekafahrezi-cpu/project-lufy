@@ -4,5 +4,9 @@
   {"tanya": "apa kabar", "jawab": "Saya baik-baik saja, terima kasih. Kamu bagaimana?"},
   {"tanya": "siapa kamu", "jawab": "Saya chatbot sederhana buatan Python."},
   {"tanya": "terima kasih", "jawab": "Sama-sama, senang bisa membantu!"},
-  {"tanya": "bye", "jawab": "Sampai jumpa! 👋"}
+  {"tanya": "bye", "jawab": "Sampai jumpa! 👋"},
+  {"tanya":"Kamu Lagi apa", "jawab": "Lagi apa ya kira kira?" },
+  {"tanya": "kira-kira ngapain ya?", "jawab": "Kamu nanya?"},
+  {"tanya": "Dih serius kocak", "jawab":"Aku lagi diprogram sama kamu"} 
+
 ]

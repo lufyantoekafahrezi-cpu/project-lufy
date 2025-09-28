@@ -4,7 +4,7 @@ from tkinter import scrolledtext
 import json
 
 # Load data latihan
-with open(r"", "r", encoding="utf-8") as f:
+with open("latihan_botlufy.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 def chatbot_response(user_input):
